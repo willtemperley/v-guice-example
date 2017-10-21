@@ -9,7 +9,6 @@ import com.vaadin.navigator.View;
 
 public class ViewModule extends AbstractModule {
 
-	
     protected MapBinder<String, View> mapbinder;
     
     @Override

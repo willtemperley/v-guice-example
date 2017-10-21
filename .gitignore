@@ -29,3 +29,5 @@ local.properties
 # PDT-specific
 .buildpath
 
+.idea/
+v-guice-example.iml
